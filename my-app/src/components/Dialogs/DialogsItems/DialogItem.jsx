@@ -9,7 +9,7 @@ const DialogItem = (props) => {
             <NavLink to={path}>{props.name}</NavLink>
         </div>
     );
-}
+} 
 
 
 
